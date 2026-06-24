@@ -2,8 +2,8 @@
 **Portal Berita – CodeIgniter 4**
 
 ## Identitas Mahasiswa
-- **Nama:** Faisal Fajar  
-- **NIM:** 312310123
+- **Nama:** Arbi bagaskara putra
+- **NIM:** 312310671
 - **MataKuliah:** Pemerograman Web 2
 - **Dosen Pengampu:** pak  Pak Agung Nugroho, S.kom., M.kom.
     
